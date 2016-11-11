@@ -1,1 +1,13 @@
 .idea
+.htaccess
+apple-touch-icon.png
+browserconfig.xml
+css/
+favicon.ico
+fonts/
+img/
+index.html
+js/
+robots.txt
+tile-wide.png
+tile.png
